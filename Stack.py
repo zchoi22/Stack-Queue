@@ -29,7 +29,7 @@ class Stack:
         return self.size == 0
 
     def size(self):
-        return self.size()
+        return self.size
 
     def peek(self):
         return self.root
